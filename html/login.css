@@ -1,0 +1,94 @@
+
+.main{
+
+	width: 60%;
+	height: 70vh;
+	margin: 50px auto;
+	box-shadow: 0 0 5px 1px #000;
+	padding: 10px;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.main .img{
+	 width: 48%;
+	 height: 90%;
+/*	 border: 2px solid #000;*/
+/*	 display: inline-block;*/
+	 margin: 5px;
+	 padding: 10px;
+}
+
+.main .img img{
+	width: 100%;
+	margin-top: -40px;
+}
+.main .page{
+	 width: 48%;
+	 height: 90%;
+/*	 border: 2px solid #000;*/
+/*	 display: inline-block;*/
+	 margin: 5px;
+	 padding: 10px;
+	 padding-left: 30px;
+
+}
+
+.main .page h1{
+
+	  margin-top: 40px;
+}
+
+
+
+form{
+      padding-left: 10px; 
+       font-size: 20px;
+	 font-weight: 600;   
+
+}
+
+.input_Box input{
+
+   margin: 10px;
+   width: 90%;
+   height: 30px;
+/*   border-radius: 10px;*/
+   	box-shadow: 0 0 5px 0px #000;
+  padding: 10px;
+   border: none;
+}
+
+.input_Box input:after{
+	 background: #cde8f3;
+	 border: none;
+}
+
+
+label{
+	font-size: 20px;
+}
+.input{
+	margin-top: 10px;
+}
+a{
+	font-size: 20px;
+	margin-left: 10px;
+ 
+}
+button{
+	width: 90%;
+	height: 40px;
+	margin: 10px;
+	border: none;
+	background: orange;
+	border-radius: 20px;
+	font-size: 20px ;
+	font-weight: 600;
+	color: white;
+
+}
+
+
+
+
